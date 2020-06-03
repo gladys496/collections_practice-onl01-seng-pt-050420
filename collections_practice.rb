@@ -18,6 +18,6 @@ end
 
 def reverse_array(array)
   array.reverse |element|
-  return element 
+
 end 
 end 
