@@ -30,7 +30,7 @@ def kesha_maker(array)
   kesha 
 end
 
-def find_a(array,element)
-  array.start_with?(element)
+def find_a(array)
+  array.start_with?("a")
     
 end 
