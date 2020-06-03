@@ -40,6 +40,6 @@ def add_s (array)
     if index == 1 
       return string 
     else 
-      << "s"
+     string  << "s"
   end 
 end 
