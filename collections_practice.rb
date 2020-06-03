@@ -30,8 +30,7 @@ def kesha_maker(array)
   kesha 
 end
 
-def find_a(array)
-  array.select do |a|
+def find_a(array,element)
+  array.select(element)
     
-end 
 end 
