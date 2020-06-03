@@ -21,4 +21,10 @@ def reverse_array(array)
 end 
 
 def kesha_maker(array)
-  
+  $ = 0
+while $ < array.length 
+yield array[$]
+ $ += 1 
+  end
+  array 
+end 
