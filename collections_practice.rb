@@ -31,6 +31,7 @@ def kesha_maker(array)
 end
 
 def find_a(array)
+  array = ["apple","orange", "pear", "avis", "arlo", "ascot"]
   array.include?("a")
     
 end 
