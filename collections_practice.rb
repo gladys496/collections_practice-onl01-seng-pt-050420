@@ -38,6 +38,8 @@ end
 def add_s (array)
   array.each_with_index.collect do |element,index|
     if index == 1 
-      return 
+      return string 
+    else 
+      << "s"
   end 
 end 
