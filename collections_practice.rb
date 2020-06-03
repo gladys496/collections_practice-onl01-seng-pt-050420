@@ -19,5 +19,5 @@ end
 def reverse_array(array)
   array.reverse |element|
 
-end 
+
 end 
